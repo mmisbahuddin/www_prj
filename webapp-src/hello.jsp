@@ -12,6 +12,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Server says: </h1><%=Hello.sayHello("Mohd Misbahuddin")%>
+<h1>Server says: </h1><%=Hello.sayHello("Md Misbahuddin")%>
 </body>
 </html>
